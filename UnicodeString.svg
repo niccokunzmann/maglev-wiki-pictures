@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="728" version="1.1" width="1158" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="152" x="630" y="15"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="152" x="630" y="15"/>
+<text font-family="Dialog" font-size="12" x="644" y="28">
+CharacterCollection</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="630" y="38"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="630" y="59"/>
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="152" x="326" y="151"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="152" x="326" y="151"/>
+<text font-family="Dialog" font-size="12" x="383" y="164">
+String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="326" y="174"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="326" y="195"/>
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="152" x="630" y="151"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="152" x="630" y="151"/>
+<text font-family="Dialog" font-size="12" x="652" y="164">
+DoubleByteString</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="630" y="174"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="630" y="195"/>
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="152" x="934" y="151"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="152" x="934" y="151"/>
+<text font-family="Dialog" font-size="12" x="961" y="164">
+QuadByteString</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="934" y="174"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="152" x="934" y="195"/>
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="88" x="286" y="271"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="88" x="286" y="271"/>
+<text font-family="Dialog" font-size="12" x="300" y="284">
+Unicode7</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="286" y="294"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="286" y="315"/>
+<rect fill="#ffffff" height="66" stroke="#ffffff" stroke-width="1" width="88" x="422" y="271"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="88" x="422" y="271"/>
+<text font-family="Dialog" font-size="12" x="444" y="284">
+Symbol</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="422" y="294"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="422" y="315"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="88" x="582" y="271"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="88" x="582" y="271"/>
+<text font-family="Dialog" font-size="12" x="592" y="284">
+Unicode16</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="582" y="294"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="582" y="315"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="125" x="702" y="271"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="125" x="702" y="271"/>
+<text font-family="Dialog" font-size="12" x="707" y="284">
+DoubleByteSymbol</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="125" x="702" y="294"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="125" x="702" y="315"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="88" x="894" y="271"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="88" x="894" y="271"/>
+<text font-family="Dialog" font-size="12" x="904" y="284">
+Unicode32</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="894" y="294"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="88" x="894" y="315"/>
+<rect fill="#ffffff" height="67" stroke="#ffffff" stroke-width="1" width="114" x="1022" y="271"/>
+<rect fill="none" height="67" stroke="#000000" stroke-width="1" width="114" x="1022" y="271"/>
+<text font-family="Dialog" font-size="12" x="1027" y="284">
+QuadByteSymbol</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="114" x="1022" y="294"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="114" x="1022" y="315"/>
+<polyline fill="none" points="342,271 342,216" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="342,216 349,228 335,228" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="342,216 349,228 335,228" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="454,271 454,216" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="454,216 461,228 447,228" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="454,216 461,228 447,228" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="646,271 646,216" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="646,216 653,228 639,228" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="646,216 653,228 639,228" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="765,271 765,216" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="765,216 772,228 758,228" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="765,216 772,228 758,228" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="965,271 965,216" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="965,216 972,228 958,228" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="965,216 972,228 958,228" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="1062,271 1062,216" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="1062,216 1069,228 1055,228" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="1062,216 1069,228 1055,228" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="710,151 710,80" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="710,80 717,92 703,92" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="710,80 717,92 703,92" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="934,151 781,80" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="781,80 794,78 788,91" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="781,80 794,78 788,91" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="477,151 630,80" stroke="#000000" stroke-width="1"/>
+<polygon fill="#ffffff" points="630,80 622,91 616,78" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="630,80 622,91 616,78" stroke="#000000" stroke-width="1"/>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="66" x="54" y="15"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="66" x="54" y="15"/>
+<text font-family="Dialog" font-size="12" font-style="italic" x="68" y="28">
+String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="54" y="38"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="66" x="54" y="59"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="119" x2="124" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="129" x2="134" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="139" x2="144" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="149" x2="154" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="159" x2="164" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="169" x2="174" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="179" x2="184" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="189" x2="194" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="199" x2="204" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="209" x2="214" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="219" x2="224" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="229" x2="234" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="239" x2="244" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="249" x2="254" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="259" x2="264" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="269" x2="274" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="279" x2="284" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="289" x2="294" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="299" x2="304" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="309" x2="314" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="319" x2="324" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="329" x2="334" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="339" x2="344" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="349" x2="354" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="359" x2="364" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="369" x2="374" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="379" x2="384" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="389" x2="394" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="399" x2="404" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="409" x2="414" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="419" x2="424" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="429" x2="434" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="439" x2="444" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="449" x2="454" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="459" x2="464" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="469" x2="474" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="479" x2="484" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="489" x2="494" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="499" x2="504" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="509" x2="514" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="519" x2="524" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="529" x2="534" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="539" x2="544" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="549" x2="554" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="559" x2="564" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="569" x2="574" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="579" x2="584" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="589" x2="594" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="599" x2="604" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="609" x2="614" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="619" x2="624" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="629" x2="630" y1="47" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="618" x2="630" y1="54" y2="47"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="618" x2="630" y1="40" y2="47"/>
+<text font-family="Dialog" font-size="12" x="330" y="27">
+RUBY.global</text>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="106" x="278" y="407"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="106" x="278" y="407"/>
+<text font-family="Dialog" font-size="12" x="283" y="420">
+Unicode7String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="106" x="278" y="430"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="106" x="278" y="451"/>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="121" x="574" y="407"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="121" x="574" y="407"/>
+<text font-family="Dialog" font-size="12" x="582" y="420">
+Unicode16String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="121" x="574" y="430"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="121" x="574" y="451"/>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="110" x="886" y="407"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="110" x="886" y="407"/>
+<text font-family="Dialog" font-size="12" x="889" y="420">
+Unicode32String</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="110" x="886" y="430"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="110" x="886" y="451"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="407" y2="402"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="397" y2="392"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="387" y2="382"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="377" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="367" y2="362"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="357" y2="352"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="347" y2="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="334" x2="334" y1="337" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="341" x2="334" y1="348" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="327" x2="334" y1="348" y2="336"/>
+<text font-family="Dialog" font-size="12" x="243" y="377">
+RUBY.global</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="407" y2="402"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="397" y2="392"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="387" y2="382"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="377" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="367" y2="362"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="357" y2="352"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="622" x2="622" y1="347" y2="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="629" x2="622" y1="349" y2="337"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="615" x2="622" y1="349" y2="337"/>
+<text font-family="Dialog" font-size="12" x="531" y="377">
+RUBY.global</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="407" y2="402"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="397" y2="392"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="387" y2="382"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="377" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="367" y2="362"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="357" y2="352"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="934" x2="934" y1="347" y2="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="941" x2="934" y1="349" y2="337"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="927" x2="934" y1="349" y2="337"/>
+<text font-family="Dialog" font-size="12" x="843" y="377">
+RUBY.global</text>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="120" x="414" y="407"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="120" x="414" y="407"/>
+<text font-family="Dialog" font-size="12" x="419" y="420">
+SingleByteSymbol</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="120" x="414" y="430"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="120" x="414" y="451"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="407" y2="402"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="397" y2="392"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="387" y2="382"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="377" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="367" y2="362"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="357" y2="352"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="347" y2="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="486" x2="486" y1="337" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="493" x2="486" y1="348" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="479" x2="486" y1="348" y2="336"/>
+<text font-family="Dialog" font-size="12" x="395" y="377">
+RUBY.global</text>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="125" x="726" y="407"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="125" x="726" y="407"/>
+<text font-family="Dialog" font-size="12" x="731" y="420">
+DoubleByteSymbol</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="125" x="726" y="430"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="125" x="726" y="451"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="407" y2="402"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="397" y2="392"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="387" y2="382"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="377" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="367" y2="362"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="357" y2="352"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="774" x2="774" y1="347" y2="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="781" x2="774" y1="349" y2="337"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="767" x2="774" y1="349" y2="337"/>
+<text font-family="Dialog" font-size="12" x="683" y="377">
+RUBY.global</text>
+<rect fill="#c8ffff" height="66" stroke="#c8ffff" stroke-width="1" width="114" x="1030" y="407"/>
+<rect fill="none" height="66" stroke="#000000" stroke-width="1" width="114" x="1030" y="407"/>
+<text font-family="Dialog" font-size="12" x="1035" y="420">
+QuadByteSymbol</text>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="114" x="1030" y="430"/>
+<rect fill="#000000" height="1" stroke="#000000" stroke-width="1" width="114" x="1030" y="451"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="407" y2="402"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="397" y2="392"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="387" y2="382"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="377" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="367" y2="362"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="357" y2="352"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1110" x2="1110" y1="347" y2="342"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1117" x2="1110" y1="349" y2="337"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="1103" x2="1110" y1="349" y2="337"/>
+<text font-family="Dialog" font-size="12" x="1019" y="377">
+RUBY.global</text>
+<polygon fill="#c0c0c0" points="14,367 171,367 181,377 181,398 14,398 14,367" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="14,367 171,367 181,377 181,398 14,398 14,367" stroke="#000000" stroke-width="1"/>
+<polygon fill="#c0c0c0" points="171,367 181,377 171,377 171,367" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="171,367 181,377 171,377 171,367" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="17" y="382">
+Parser creates Unicode7</text>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="181" x2="185" y1="367" y2="366"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="190" x2="195" y1="365" y2="363"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="200" x2="205" y1="362" y2="360"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="209" x2="214" y1="359" y2="358"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="219" x2="224" y1="356" y2="355"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="229" x2="233" y1="353" y2="352"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="238" x2="243" y1="350" y2="349"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="248" x2="253" y1="348" y2="346"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="258" x2="262" y1="345" y2="343"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="267" x2="272" y1="342" y2="340"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="277" x2="282" y1="339" y2="338"/>
+<polygon fill="#c0c0c0" points="14,143 247,143 257,153 257,314 14,314 14,143" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="14,143 247,143 257,153 257,314 14,314 14,143" stroke="#000000" stroke-width="1"/>
+<polygon fill="#c0c0c0" points="247,143 257,153 247,153 247,143" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="247,143 257,153 247,153 247,143" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="17" y="158">
+class String</text>
+<text font-family="Dialog" font-size="12" x="17" y="173">
+    primitive '__replace', 'replace:with:'</text>
+<text font-family="Dialog" font-size="12" x="17" y="188">
+    </text>
+<text font-family="Dialog" font-size="12" x="17" y="203">
+    def replace!(str1, str2)</text>
+<text font-family="Dialog" font-size="12" x="17" y="218">
+        self.__replace!(str1, str2)</text>
+<text font-family="Dialog" font-size="12" x="17" y="233">
+    end</text>
+<text font-family="Dialog" font-size="12" x="17" y="263">
+    def encoding</text>
+<text font-family="Dialog" font-size="12" x="17" y="278">
+        self.__class</text>
+<text font-family="Dialog" font-size="12" x="17" y="293">
+    end</text>
+<text font-family="Dialog" font-size="12" x="17" y="308">
+end</text>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="143" y2="138"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="133" y2="128"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="123" y2="118"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="113" y2="108"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="103" y2="98"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="93" y2="88"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="86" x2="86" y1="83" y2="80"/>
+<polygon fill="#c0c0c0" points="278,543 514,543 524,553 524,713 278,713 278,543" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="278,543 514,543 524,553 524,713 278,713 278,543" stroke="#000000" stroke-width="1"/>
+<polygon fill="#c0c0c0" points="514,543 524,553 514,553 514,543" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="514,543 524,553 514,553 514,543" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="281" y="558">
+class Unicode7String</text>
+<text font-family="Dialog" font-size="12" x="281" y="573">
+    def class</text>
+<text font-family="Dialog" font-size="12" x="281" y="588">
+        String</text>
+<text font-family="Dialog" font-size="12" x="281" y="603">
+    end</text>
+<text font-family="Dialog" font-size="12" x="281" y="633">
+    def __class</text>
+<text font-family="Dialog" font-size="12" x="281" y="648">
+        Unicode7String</text>
+<text font-family="Dialog" font-size="12" x="281" y="663">
+    end</text>
+<text font-family="Dialog" font-size="12" x="281" y="693">
+    primitive '__replace', 'replace:with:'</text>
+<text font-family="Dialog" font-size="12" x="281" y="708">
+end</text>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="543" y2="538"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="533" y2="528"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="523" y2="518"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="513" y2="508"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="503" y2="498"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="493" y2="488"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="483" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="342" x2="342" y1="473" y2="472"/>
+<polygon fill="#c0c0c0" points="830,15 1123,15 1133,25 1133,78 830,78 830,15" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="830,15 1123,15 1133,25 1133,78 830,78 830,15" stroke="#000000" stroke-width="1"/>
+<polygon fill="#c0c0c0" points="1123,15 1133,25 1123,25 1123,15" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="1123,15 1133,25 1123,25 1123,15" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="833" y="30">
+CharacterCollection&gt;&gt;replace: str1 with: str2</text>
+<text font-family="Dialog" font-size="12" x="833" y="45">
+    ^ self subclassResponsibility</text>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="830" x2="825" y1="47" y2="47"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="820" x2="815" y1="47" y2="47"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="810" x2="805" y1="47" y2="47"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="800" x2="795" y1="47" y2="47"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="785" y1="47" y2="47"/>
+<polygon fill="#c0c0c0" points="574,543 1113,543 1123,553 1123,582 574,582 574,543" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="574,543 1113,543 1123,553 1123,582 574,582 574,543" stroke="#000000" stroke-width="1"/>
+<polygon fill="#c0c0c0" points="1113,543 1123,553 1113,553 1113,543" stroke="#c0c0c0" stroke-width="1"/>
+<polyline fill="none" points="1113,543 1123,553 1113,553 1113,543" stroke="#000000" stroke-width="1"/>
+<text font-family="Dialog" font-size="12" x="577" y="558">
+The symbol classes can't have a mutual superclass, because CharacterCollection</text>
+<text font-family="Dialog" font-size="12" x="577" y="573">
+is already in use for String and everything above might affect String or be in use as well.</text>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="574" x2="572" y1="543" y2="539"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="569" x2="567" y1="535" y2="530"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="564" x2="562" y1="526" y2="522"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="559" x2="557" y1="517" y2="513"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="554" x2="552" y1="508" y2="504"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="549" x2="547" y1="500" y2="495"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="544" x2="542" y1="491" y2="487"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="539" x2="537" y1="482" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="534" x2="533" y1="473" y2="472"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="543" y2="538"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="533" y2="528"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="523" y2="518"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="513" y2="508"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="503" y2="498"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="493" y2="488"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="483" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="790" x2="790" y1="473" y2="472"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="543" y2="538"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="533" y2="528"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="523" y2="518"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="513" y2="508"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="503" y2="498"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="493" y2="488"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="483" y2="478"/>
+<line fill="#333399" stroke="#333399" stroke-width="1" x1="1086" x2="1086" y1="473" y2="472"/>
+</svg>
