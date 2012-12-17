@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Encoding-Possibilities.svg">
+   sodipodi:docname="Encoding-Possibilities.svg"
+   inkscape:export-filename="/home/nicco/Documents/maglev-wiki-pictures/Encoding-Possibilities.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -283,22 +286,12 @@
        transform="translate(58.139204,0)"
        width="877.5"
        height="885.4375" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3941"
-       id="use3943"
-       transform="translate(112.28571,0)"
-       width="877.5"
-       height="885.4375" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3943"
+    <path
+       style="fill:#24820a;fill-opacity:1;stroke:none"
+       d="m 802.94973,186.06467 c 0,0 8.55771,9.19567 16.71795,-1.35364 8.16022,-10.54933 15.57146,-27.81462 15.57146,-27.81462 0,0 -3.30172,35.52504 -15.48959,42.49968 -12.18789,6.97464 -16.79982,-13.33142 -16.79982,-13.33142 z"
        id="use3945"
-       transform="translate(57.857139,0)"
-       width="877.5"
-       height="885.4375" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czczc" />
     <path
        sodipodi:nodetypes="czczc"
        inkscape:connector-curvature="0"
@@ -540,6 +533,14 @@
        xlink:href="#rect4013"
        id="use3071"
        transform="translate(-114.75706,57.142851)"
+       width="877.5"
+       height="885.4375" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect4013"
+       id="use3110"
+       transform="translate(58,0)"
        width="877.5"
        height="885.4375" />
   </g>
