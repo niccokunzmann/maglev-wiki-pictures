@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="420.51276"
+   height="295.38327"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -20,15 +20,16 @@
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path3805"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
@@ -52,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="383.64613"
-     inkscape:cy="665.77222"
+     inkscape:zoom="1.4"
+     inkscape:cx="238.04612"
+     inkscape:cy="116.7593"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,7 +66,11 @@
      inkscape:window-height="1021"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -81,11 +86,12 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-63.227577,-82.03909)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3759"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><flowRegion
          id="flowRegion3761"><rect
            id="rect3763"
            width="367.14285"
@@ -93,179 +99,8 @@
            x="156.42857"
            y="85.219322" /></flowRegion><flowPara
          id="flowPara3765"></flowPara></flowRoot>    <g
-       id="g3789"
-       transform="translate(164.23495,-66.183467)">
-      <rect
-         y="123.98251"
-         x="148.57143"
-         height="38.490932"
-         width="150.73532"
-         id="rect2985"
-         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3755"
-         y="148.74556"
-         x="223.69983"
-         style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="148.74556"
-           x="223.69983"
-           id="tspan3757"
-           sodipodi:role="line">1 : Migration</tspan></text>
-    </g>
-    <g
-       id="g3784"
-       transform="translate(164.23495,-70.224116)">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect3767"
-         width="150.73532"
-         height="38.490932"
-         x="148.57143"
-         y="211.86578" />
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="224.06604"
-         y="236.62883"
-         id="text3769"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan3771"
-           x="224.06604"
-           y="236.62883">2 : Migration</tspan></text>
-    </g>
-    <g
-       id="g3779"
-       transform="translate(164.23495,-66.183467)">
-      <rect
-         y="291.66782"
-         x="148.57143"
-         height="38.490932"
-         width="150.73532"
-         id="rect3773"
-         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3775"
-         y="316.43088"
-         x="224.03674"
-         style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="316.43088"
-           x="224.03674"
-           id="tspan3777"
-           sodipodi:role="line">3 : Migration</tspan></text>
-    </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 388.17404,96.28998 0,45.35168"
-       id="path3794"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-       d="m 388.17404,180.1326 0,45.35175"
-       id="path3796"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4518"
-       d="m 533.44173,50.889097 0,45.351753"
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4544"
-       y="75.08255"
-       x="541.44171"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="75.08255"
-         x="541.44171"
-         id="tspan4546"
-         sodipodi:role="line">Zeitliche Ordnung</tspan></text>
-    <g
-       id="g4456"
-       transform="translate(-16.479334,-45.209651)">
-      <g
-         id="g4426"
-         transform="translate(-72.68172,-20.973816)">
-        <rect
-           y="123.98251"
-           x="148.57143"
-           height="38.490932"
-           width="150.73532"
-           id="rect4428"
-           style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text4430"
-           y="148.74556"
-           x="223.69983"
-           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             y="148.74556"
-             x="223.69983"
-             id="tspan4432"
-             sodipodi:role="line">1 : Migration</tspan></text>
-      </g>
-      <g
-         id="g4434"
-         transform="translate(-72.68172,-25.014466)">
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-           id="rect4436"
-           width="150.73532"
-           height="38.490932"
-           x="148.57143"
-           y="211.86578" />
-        <text
-           xml:space="preserve"
-           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           x="224.06604"
-           y="236.62883"
-           id="text4438"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             id="tspan4440"
-             x="224.06604"
-             y="236.62883">2 : Migration</tspan></text>
-      </g>
-      <g
-         id="g4442"
-         transform="translate(-72.68172,-20.973816)">
-        <rect
-           y="291.66782"
-           x="148.57143"
-           height="38.490932"
-           width="150.73532"
-           id="rect4444"
-           style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text4446"
-           y="316.43088"
-           x="224.03674"
-           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-           xml:space="preserve"><tspan
-             y="316.43088"
-             x="224.03674"
-             id="tspan4448"
-             sodipodi:role="line">3 : Migration</tspan></text>
-      </g>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
-         d="m 94.275666,127.17889 0,69.81597"
-         id="path4450"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path4454"
-         d="m 94.275666,210.39318 0,69.81597"
-         style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
-    </g>
-    <g
-       id="g4677">
+       id="g4677"
+       transform="translate(19.192898,-294.96454)">
       <g
          id="g4490"
          transform="translate(-89.731762,254.03488)">
@@ -353,7 +188,7 @@
     </g>
     <g
        id="g4634"
-       transform="translate(0,-3.35308)">
+       transform="translate(19.192898,-298.31762)">
       <g
          id="g4661">
         <g
@@ -435,7 +270,8 @@
       </g>
     </g>
     <g
-       id="g4730">
+       id="g4730"
+       transform="translate(19.192898,-294.96454)">
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 4;stroke-dashoffset:0"
          d="M 209.575,652.14393 312.80638,481.10548"
