@@ -93,7 +93,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="415.7703"
-     inkscape:cy="-57.55229"
+     inkscape:cy="104.07212"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -300,17 +300,6 @@
          id="tspan6119"
          x="198.16226"
          y="152.04082">identisch</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text6125"
-       y="152.04082"
-       x="198.16226"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       xml:space="preserve"><tspan
-         y="152.04082"
-         x="198.16226"
-         id="tspan6127"
-         sodipodi:role="line">identisch</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#marker4782)"
        d="m 182.575,157.09097 122.1218,0"
@@ -394,16 +383,5 @@
          x="471.37656"
          id="tspan6137"
          sodipodi:role="line">identisch</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="471.37656"
-       y="152.04082"
-       id="text6143"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6145"
-         x="471.37656"
-         y="152.04082">identisch</tspan></text>
   </g>
 </svg>
