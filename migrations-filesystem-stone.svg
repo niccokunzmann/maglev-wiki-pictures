@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="699.17859"
-   height="274.64108"
+   width="918.14868"
+   height="297.95108"
    id="svg4762"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -76,9 +76,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="334.53571"
-     inkscape:cy="114.42988"
+     inkscape:zoom="0.7"
+     inkscape:cx="596.01247"
+     inkscape:cy="57.631072"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -110,7 +110,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-30.83074,-83.014399)">
+     transform="translate(79.00991,-60.629958)">
     <g
        id="g3789"
        transform="translate(156.12538,13.862984)">
@@ -179,28 +179,6 @@
            x="224.03674"
            id="tspan3777"
            sodipodi:role="line">3 : Migration</tspan></text>
-    </g>
-    <g
-       transform="translate(156.12538,13.862984)"
-       id="g5385">
-      <rect
-         style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         id="rect5387"
-         width="150.73532"
-         height="38.490932"
-         x="148.57143"
-         y="123.98251" />
-      <text
-         xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         x="223.69983"
-         y="148.74556"
-         id="text5389"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan5391"
-           x="223.69983"
-           y="148.74556">1 : Migration</tspan></text>
     </g>
     <g
        id="g5400"
@@ -279,11 +257,8 @@
        sodipodi:cy="186.66145"
        sodipodi:rx="66.670067"
        sodipodi:ry="70.710678"
-       d="m 163.8792,231.23973 c -23.21305,30.31423 -65.201221,34.9304 -93.783212,10.3105 -15.614123,-13.44966 -24.66821,-33.65725 -24.639055,-54.99127"
-       transform="matrix(-0.22996887,-2.1185332,2.1204866,-0.22975702,-291.52842,490.03162)"
-       sodipodi:start="0.68210958"
-       sodipodi:end="3.1430421"
-       sodipodi:open="true" />
+       d="m 178.797,186.66145 c 0,39.05243 -29.84921,70.71068 -66.67007,70.71068 -36.820861,0 -66.670067,-31.65825 -66.670067,-70.71068 0,-39.05243 29.849206,-70.71067 66.670067,-70.71067 36.82086,0 66.67007,31.65824 66.67007,70.71067 z"
+       transform="matrix(-0.22996887,-2.1185332,2.1204866,-0.22975702,-291.52842,490.03162)" />
     <g
        id="g6111"
        transform="translate(0,-83.842606)">
@@ -333,18 +308,15 @@
            y="235.88342">identisch</tspan></text>
     </g>
     <path
-       sodipodi:end="3.1430421"
-       sodipodi:start="0.68210958"
        transform="matrix(0.22996887,-2.1185332,-2.1204866,-0.22975702,1051.6573,490.03162)"
-       d="m 163.8792,231.23973 c -23.21305,30.31423 -65.201221,34.9304 -93.783212,10.3105 -15.614123,-13.44966 -24.66821,-33.65725 -24.639055,-54.99127"
+       d="m 178.797,186.66145 c 0,39.05243 -29.84921,70.71068 -66.67007,70.71068 -36.820861,0 -66.670067,-31.65825 -66.670067,-70.71068 0,-39.05243 29.849206,-70.71067 66.670067,-70.71067 36.82086,0 66.67007,31.65824 66.67007,70.71067 z"
        sodipodi:ry="70.710678"
        sodipodi:rx="66.670067"
        sodipodi:cy="186.66145"
        sodipodi:cx="112.12693"
        id="path5367"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0.46905687px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter5363);enable-background:accumulate"
-       sodipodi:type="arc"
-       sodipodi:open="true" />
+       sodipodi:type="arc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#marker4782)"
        d="m 182.575,157.09097 122.1218,0"
@@ -413,7 +385,7 @@
          id="text6073"
          y="235.88342"
          x="198.16226"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;font-family:Sans;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          xml:space="preserve"><tspan
            y="235.88342"
            x="198.16226"
@@ -432,7 +404,7 @@
            y="235.88342">identisch</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;font-family:Sans;stroke-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Sans"
          x="198.16226"
          y="235.88342"
          id="text6077"
