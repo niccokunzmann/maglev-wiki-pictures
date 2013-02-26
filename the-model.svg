@@ -14,7 +14,7 @@
    id="svg5239"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 12">
+   sodipodi:docname="the-model.svg">
   <defs
      id="defs5241">
     <marker
@@ -54,8 +54,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="426.08665"
-     inkscape:cy="-106.48501"
+     inkscape:cx="922.4439"
+     inkscape:cy="-85.421727"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -106,13 +106,6 @@
        d="m 457.13193,495.8276 -166.75093,0"
        id="path4979-7"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:0.98000004;color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect2985"
-       width="170.64001"
-       height="130.41953"
-       x="457.13193"
-       y="464.90353" />
     <text
        xml:space="preserve"
        style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -145,13 +138,6 @@
        id="path4213"
        d="m 457.13193,564.39904 -166.75093,0"
        style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
-    <rect
-       y="464.90353"
-       x="119.74099"
-       height="130.41953"
-       width="170.64001"
-       id="rect3761"
-       style="opacity:0.98000004;color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        inkscape:connector-curvature="0"
        id="path5320"
@@ -183,5 +169,19 @@
          id="tspan5346"
          x="295.41272"
          y="408.61441">the Model</tspan></text>
+    <rect
+       style="opacity:0.98000004;color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="170.64001"
+       height="130.41953"
+       x="457.13193"
+       y="464.90353" />
+    <rect
+       y="464.90353"
+       x="119.74099"
+       height="130.41953"
+       width="170.64001"
+       id="rect3761"
+       style="opacity:0.98000004;color:#000000;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
