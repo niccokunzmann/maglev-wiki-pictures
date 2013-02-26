@@ -33,7 +33,7 @@ for name in files:
     thread.start_new(add_content, (name,))
 
 # print names
-for name in files:
+for name in sorted(files):
     link = url(name)
     print(link)
     while not name in url_contents:
